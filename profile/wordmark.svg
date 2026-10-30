@@ -7,5 +7,5 @@
   <circle cx="126.1" cy="58.1" r="3.9" fill="#38bdf8" opacity="0.75"/>
   <circle cx="103.6" cy="60.3" r="2.5" fill="#38bdf8" opacity="0.55"/>
   <text x="180" y="104" font-family="Geist, Inter, ui-sans-serif, Arial, sans-serif" font-size="92" font-weight="700" letter-spacing="-4" fill="#0a0a0a">powder</text>
-  <text x="186" y="138" font-family="Geist Mono, ui-monospace, Menlo, monospace" font-size="20" fill="#6e6e6e">deploy. send. from europe.</text>
+  <text x="186" y="138" font-family="Geist Mono, ui-monospace, Menlo, monospace" font-size="20" fill="#6e6e6e">git push. your servers. live.</text>
 </svg>
